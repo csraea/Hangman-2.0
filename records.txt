@@ -1,0 +1,35 @@
+Name: Alex;
+Score: 51;
+Number of guessed words: 2;
+Game session: Fri Jan 18 21:01:28 2019
+
+Name: Alex;
+Score: 5;
+Number of guessed words: 2;
+Game session: Fri Jan 18 21:08:32 2019
+
+Name: csraea;
+Score: 123;
+Number of guessed words: 5;
+Game session: Fri Jan 18 21:10:24 2019
+
+Name: Oleg;
+Score: 12;
+Number of guessed words: 1;
+Game session: Fri Jan 18 21:25:18 2019
+
+Name: Oleg;
+Score: 3;
+Number of guessed words: 0;
+Game session: Fri Jan 18 21:25:18 2019
+
+Name: kate;
+Score: 10;
+Number of guessed words: 2;
+Game session: Mon Jan 21 12:20:05 2019
+
+Name: d;
+Score: 2;
+Number of guessed words: 0;
+Game session: Sat Feb  9 21:15:21 2019
+
